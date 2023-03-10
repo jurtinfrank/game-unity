@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tabla uno_de
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: d5bc179b0b9587744be6d74071c24977, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 63356354560
+    m_Localized: "Durch Ber\xFChren des Spielbildschirms k\xF6nnen Sie die Richtung
+      \xE4ndern, in der Sie sich von links nach rechts drehen.\r\n\r\nDas Spiel besteht
+      darin, dass Sie den Meteoriten ausweichen m\xFCssen, die Feuer haben."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 345196806144
+    m_Localized: "Sie m\xFCssen mit den herauskommenden Planeten (die kein Feuer
+      haben) kollidieren und so Punkte hinzuf\xFCgen, die sich oben im UFO widerspiegeln.\r\n\r\nMessen
+      Sie sich mit Freunden und Familie, um die h\xF6chste Punktzahl zu erzielen.
+      Die h\xF6chste Punktzahl wird am Ende angezeigt und zeigt, wer der Beste im
+      Spiel ist."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36465712381952
+    m_Localized: Spielanleitung?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 382199227473920
+    m_Localized: Ja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 384360179032064
+    m_Localized: Ausweichen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 385066667597824
+    m_Localized: Punkte
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tabla uno_pt
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt
+  m_SharedData: {fileID: 11400000, guid: d5bc179b0b9587744be6d74071c24977, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 63356354560
+    m_Localized: "Ao tocar na tela do jogo, voc\xEA pode mudar a maneira de virar
+      da esquerda para a direita.\r\n\r\nO jogo consiste em que voc\xEA deve evitar
+      os meteoritos que t\xEAm fogo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 345196806144
+    m_Localized: "Voc\xEA tem que colidir com os planetas que saem (que n\xE3o t\xEAm
+      fogo), somando pontos que ser\xE3o refletidos acima no OVNI.\r\n\r\nCompetir
+      com amigos e familiares para ter a maior pontua\xE7\xE3o. A maior pontua\xE7\xE3o
+      ser\xE1 mostrada no final mostrando quem \xE9 o melhor no jogo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36465712381952
+    m_Localized: como jogar?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 382199227473920
+    m_Localized: Sim
+    m_Metadata:
+      m_Items: []
+  - m_Id: 384360179032064
+    m_Localized: Desviar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 385066667597824
+    m_Localized: "pontua\xE7\xE3o"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

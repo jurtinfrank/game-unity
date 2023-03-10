@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tabla uno_ja
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: ja
+  m_SharedData: {fileID: 11400000, guid: d5bc179b0b9587744be6d74071c24977, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 63356354560
+    m_Localized: "G\u0113mu gamen o tatchi suru koto de hidarikara migi e mukiwokaeru
+      koto ga dekimasu. Kono g\u0113mu wa, hi no aru inseki o yokenakereba naranai
+      to iu koto de k\u014Dsei sa rete imasu."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 345196806144
+    m_Localized: "Detekuru wakusei (hi ga nai) to sh\u014Dtotsu suru hitsuy\u014D
+      ga aru tame, y\u016Bf\u014D no ue ni han'ei sa reru pointo o tsuika shimasu.
+      Tomodachi ya kazoku to kisoiai, saik\u014D no sukoa o kakutoku shimashou. G\u0113mu
+      no saigo ni saik\u014D tokuten ga hy\u014Dji sa re, dare ga saik\u014D ka o
+      shimeshimasu. \u306E\u4E0A\u306B\u53CD\u6620\u3055\u308C\u308B\u30DD\u30A4\u30F3\u30C8\u3092\u8FFD\u52A0\u3057\u307E\u3059\u3002\r\n\r\n\u53CB\u9054\u3084\u5BB6\u65CF\u3068\u7AF6\u3044\u5408\u3044\u3001\u6700\u9AD8\u306E\u30B9\u30B3\u30A2\u3092\u7372\u5F97\u3057\u307E\u3057\u3087\u3046\u3002\u30B2\u30FC\u30E0\u306E\u6700\u5F8C\u306B\u6700\u9AD8\u5F97\u70B9\u304C\u8868\u793A\u3055\u308C\u3001\u8AB0\u304C\u6700\u9AD8\u304B\u3092\u793A\u3057\u307E\u3059\u3002"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

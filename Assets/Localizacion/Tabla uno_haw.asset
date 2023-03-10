@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tabla uno_haw
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: haw
+  m_SharedData: {fileID: 11400000, guid: d5bc179b0b9587744be6d74071c24977, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 63356354560
+    m_Localized: "Ma ka p\u0101 \u02BBana i ka pale p\u0101\u02BBani hiki i\u0101
+      \u02BBoe ke ho\u02BBololi i ke ala \u0101u e huli ai mai ka hema a i ka \u02BB\u0101kau.\r\n\r\nAia
+      ka p\u0101\u02BBani i mea e pale aku ai i n\u0101 meteorites i loa\u02BBa ke
+      ahi."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 345196806144
+    m_Localized: "Pono \u02BBoe e ho\u02BBok\u016Bk\u016B me n\u0101 h\u014Dk\u016Bhele
+      e puka mai ana (\u02BBa\u02BBohe ahi), no laila e ho\u02BBohui i n\u0101 kiko\u02BB\u012B
+      e \u02BBike \u02BBia ma luna o ka UFO.\r\n\r\nE ho\u02BBok\u016Bk\u016B me
+      n\u0101 hoaaloha a me n\u0101 \u02BBohana e loa\u02BBa ka helu ki\u02BBeki\u02BBe
+      loa. E h\u014D\u02BBike \u02BBia ka helu ki\u02BBeki\u02BBe ma ka hopena e
+      h\u014D\u02BBike ana \u02BBo wai ka mea maika\u02BBi loa i ka p\u0101\u02BBani."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

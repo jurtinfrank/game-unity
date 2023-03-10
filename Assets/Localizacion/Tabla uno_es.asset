@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tabla uno_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: d5bc179b0b9587744be6d74071c24977, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 63356354560
+    m_Localized: 'Al tocar la pantalla del juego podras cambiar la forma de girar
+      de Izquiera a Derecha.
+
+
+      El juego consiste en que tienes que esquivar
+      los meteoritos que tienen fuego.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 345196806144
+    m_Localized: 'Tienes que chocar con los planetas que te salen (que no tienen
+      fuego), asi sumando puntos que se veran refrejado arriba en el Ovni.
+
+
+      compite
+      con amigos y familiares para tener el puntaje mas alto. El puntaje mas alto
+      se mostrara al final demostrando quien es el mejor en el juego.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36465712381952
+    m_Localized: "\xBFComo jugar?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 382199227473920
+    m_Localized: Bien
+    m_Metadata:
+      m_Items: []
+  - m_Id: 384360179032064
+    m_Localized: Esquivar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 385066667597824
+    m_Localized: Puntos
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

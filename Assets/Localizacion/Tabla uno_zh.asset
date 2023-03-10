@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tabla uno_zh
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: zh
+  m_SharedData: {fileID: 11400000, guid: d5bc179b0b9587744be6d74071c24977, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 63356354560
+    m_Localized: "T\u014Dnggu\xF2 ch\xF9m\u014D y\xF3ux\xEC p\xEDngm\xF9, n\xEDn
+      k\u011By\u01D0 g\u0113ngg\u01CEi c\xF3ng zu\u01D2 zhu\u01CEnxi\xE0ng y\xF2u
+      de f\u0101ngsh\xEC.\r\n\r\nY\xF3ux\xEC z\xE0iy\xFA n\xEDn b\xECx\u016B b\xEC
+      k\u0101i y\u01D2u hu\u01D2 de y\u01D4nsh\xED."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 345196806144
+    m_Localized: "N\xEDn b\xECx\u016B y\u01D4 ch\u016Bxi\xE0n de x\xEDngx\u012Bng
+      (m\xE9iy\u01D2u hu\u01D2) xi\u0101ng zhu\xE0ng, c\xF3ng'\xE9r ti\u0101nji\u0101
+      ji\xE0ng z\xE0i UFO sh\xE0ngf\u0101ng f\u01CEny\xECng de di\u01CEn.\r\n\r\nY\u01D4
+      p\xE9ngy\u01D2u h\xE9 ji\u0101r\xE9n j\xECngzh\u0113ng y\u01D0 hu\xF2d\xE9
+      zu\xECg\u0101o f\u0113n. Zu\xECg\u0101o f\u0113n ji\xE0ng z\xE0i zu\xECh\xF2u
+      xi\u01CEnsh\xEC sh\xE9i sh\xEC y\xF3ux\xEC zh\u014Dng zu\xEC h\u01CEo de."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
