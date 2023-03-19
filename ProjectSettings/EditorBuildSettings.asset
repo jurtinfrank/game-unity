@@ -15,5 +15,5 @@ EditorBuildSettings:
     path: Assets/Scenes/Lose.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects:
-    com.unity.addressableassets: {fileID: 11400000, guid: c35857870ff368540b620ea2ead97d38, type: 2}
+    com.unity.addressableassets: {fileID: 11400000, guid: 239e2c2cff39567478ac288bdb866913, type: 2}
     com.unity.localization.settings: {fileID: 11400000, guid: e57cad4883da8904c95ae999bcb41869, type: 2}
